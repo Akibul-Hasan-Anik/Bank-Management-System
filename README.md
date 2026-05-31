@@ -65,23 +65,9 @@ Bank-Management-System/
 ## How to Run the Project
 
 1. Clone the repository.
-
 2. Open the project folder in your preferred Java IDE.
-
-3. Configure the MySQL database connection in:
-
-```text id="1j9qwe"
-Javaconnect.java
-```
-
+3. Configure the MySQL database connection.
 4. Compile and run the project.
-
-Example:
-
-```bash id="9x2kpm"
-javac Home.java
-java Home
-```
 
 ## Learning Purpose
 
